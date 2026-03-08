@@ -11,5 +11,3 @@
 ```
 https://<your-username>.github.io/C4-privacy/
 ```
-
-请在仓库 **Settings → Pages** 中将 Source 设置为 `main` 分支的根目录 (`/root`) 即可。
